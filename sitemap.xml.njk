@@ -7,7 +7,7 @@ eleventyExcludeFromCollections: true
 {%- for page in collections.all %}
 	{%- if page.url and page.url != "/404/" and not page.data.draft %}
 	<url>
-		<loc>{{ metadata.url }}{{ page.url }}</loc>
+		<loc>{{ page.url }}</loc>
 	</url>
 	{%- endif %}
 {%- endfor %}
