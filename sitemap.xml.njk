@@ -5,35 +5,17 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- set base = "https://qubitblog.net" -%}
 {%- for page in collections.all -%}
-	{%- if page.url and not page.data.draft -%}
-		{%- set u = page.url -%}
-
-		{%- if (u | slice(0, 4)) == "http" -%}
-			{%- set u = u | replace("https://qubitblog.netlify.app", "") -%}
-			{%- set u = u | replace("http://qubitblog.netlify.app", "") -%}
-			{%- set u = u | replace("https://qubitblog.net", "") -%}
-			{%- set u = u | replace("http://qubitblog.net", "") -%}
-		{%- endif -%}
-
-		{%- if (u | slice(0, 1)) != "/" -%}
-			{%- set u = "/" + u -%}
-		{%- endif -%}
-
-		{%- if (u | slice(0, 2)) == "//" -%}
-			{%- set u = u | slice(1) -%}
-		{%- endif -%}
-		{%- if (u | slice(0, 2)) == "//" -%}
-			{%- set u = u | slice(1) -%}
-		{%- endif -%}
-		{%- if (u | slice(0, 2)) == "//" -%}
-			{%- set u = u | slice(1) -%}
-		{%- endif -%}
-
+	{%- set u = page.url -%}
+	{%- if u and not page.data.draft -%}
 		{%- if u != "/404/" and u != "/404.html" and (u | slice(0, 7)) != "/admin/" -%}
+			{%- if (u | slice(0, 4)) == "http" -%}
+				{%- set loc = u -%}
+			{%- else -%}
+				{%- set loc = "https://qubitblog.net" + u -%}
+			{%- endif -%}
 	<url>
-		<loc>{{ base }}{{ u }}</loc>
+		<loc>{{ loc }}</loc>
 	</url>
 		{%- endif -%}
 	{%- endif -%}
