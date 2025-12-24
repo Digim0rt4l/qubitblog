@@ -20,7 +20,6 @@ Despite its limitations, dial-up internet had a profound impact. It introduced m
 
 ![](https://images.pexels.com/photos/5073493/pexels-photo-5073493.jpeg)
 
-\
 Broadband changed that relationship rapidly. Technologies like DSL, cable, and later fiber eliminated the need for modems to dial a number and removed the dependence on phone lines. Connections became always-on, significantly faster, and more reliable. Adoption was swift once infrastructure became available. In many regions, broadband replaced dial-up within a few years, fundamentally altering how people interacted with the internet.
 
 With broadband came richer websites, streaming media, and real-time communication. Email remained important, but instant messaging services quickly gained popularity, offering real-time conversation without the cost of phone calls. File sharing, online gaming, and media consumption expanded rapidly as bandwidth increased. The internet shifted from a place you visited occasionally to something woven into daily life.
