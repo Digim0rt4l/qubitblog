@@ -4,11 +4,15 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- for page in collections.all %}
-	{%- if page.url and page.url != "/404/" and not page.data.draft %}
+{%- for page in collections.all -%}
+	{%- if page.url and page.url != "/404.html" and page.url != "/404/" and not page.data.draft -%}
+		{%- set loc = page.url -%}
+		{%- if (loc | slice(0, 4)) != "http" -%}
+			{%- set loc = metadata.url + loc -%}
+		{%- endif -%}
 	<url>
-		<loc>{{ page.url }}</loc>
+		<loc>{{ loc }}</loc>
 	</url>
-	{%- endif %}
-{%- endfor %}
+	{%- endif -%}
+{%- endfor -%}
 </urlset>
