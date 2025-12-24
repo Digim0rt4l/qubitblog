@@ -8,9 +8,6 @@ eleventyExcludeFromCollections: true
 	{%- if page.url and page.url != "/404/" and not page.data.draft %}
 	<url>
 		<loc>{{ metadata.url }}{{ page.url }}</loc>
-		{%- if page.date %}
-		<lastmod>{{ page.date | date("yyyy-MM-dd") }}</lastmod>
-		{%- endif %}
 	</url>
 	{%- endif %}
 {%- endfor %}
