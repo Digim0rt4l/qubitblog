@@ -7,17 +7,18 @@ eleventyExcludeFromCollections: true
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for page in collections.all -%}
 	{%- set u = page.url -%}
-	{%- if u and not page.data.draft -%}
-		{%- if u != "/404/" and u != "/404.html" and (u | slice(0, 7)) != "/admin/" -%}
-			{%- if (u | slice(0, 4)) == "http" -%}
-				{%- set loc = u -%}
-			{%- else -%}
-				{%- set loc = "https://qubitblog.net" + u -%}
-			{%- endif -%}
+	{%- if
+		u
+		and not page.data.draft
+		and u != "/404/"
+		and u != "/404.html"
+		and (u | slice(0, 7)) != "/admin/"
+		and (u | slice(0, 6)) != "/tags/"
+		and (u | slice(0, 9)) != "/authors/"
+	-%}
 	<url>
-		<loc>{{ loc }}</loc>
+		<loc>https://qubitblog.net{{ u }}</loc>
 	</url>
-		{%- endif -%}
 	{%- endif -%}
 {%- endfor -%}
 </urlset>
