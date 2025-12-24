@@ -22,6 +22,8 @@ Thickness and weight also become factors in foldable designs. Devices that fold 
 
 Battery design presents additional challenges. Foldable phones typically rely on segmented battery packs distributed across each half of the device. This complicates power management, thermal behavior, and internal space allocation. In a device as compact as an iPhone, maintaining battery life without sacrificing size or weight would require careful trade-offs.
 
+![](https://images.pexels.com/photos/243698/pexels-photo-243698.jpeg)
+
 Beyond hardware, a foldable iPhone would depend heavily on software adaptation. The operating system would need to handle dynamic changes in screen size and orientation as the device transitions between folded and unfolded states. Applications would need to scale seamlessly, preserve context, and potentially support multi-window layouts. While Apple already has experience with adaptive interfaces through iPadOS and macOS, iOS has traditionally been optimized around a single, fixed display size. Supporting folding behavior would likely require deliberate platform changes and updated developer guidelines.
 
 Apple’s absence from the foldable market so far may reflect its broader strategy rather than a lack of interest. The company has often entered product categories later than competitors, prioritizing maturity, stability, and ecosystem readiness over being first. Waiting allows Apple to observe long-term durability data, benefit from advances in materials, and refine interaction models before committing to a new form factor.
