@@ -13,8 +13,8 @@ eleventyExcludeFromCollections: true
 		and u != "/404/"
 		and u != "/404.html"
 		and (u | slice(0, 7)) != "/admin/"
-		and (u | slice(0, 6)) != "/tags/"
 		and (u | slice(0, 9)) != "/authors/"
+		and (u | slice(0, 6)) != "/tags/"
 	-%}
 	<url>
 		<loc>https://qubitblog.net{{ u }}</loc>
