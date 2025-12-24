@@ -1,6 +1,6 @@
 ---
 title: Hello, World
-date: 2025-12-24T18:07:00.000+10:30
+date: 2025-12-24T18:28:00.000+10:30
 author: Scott
 summary: A brief introduction to who I am, why this blog exists, and how a
   lifelong curiosity about technology led to its creation.
