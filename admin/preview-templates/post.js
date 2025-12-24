@@ -17,12 +17,11 @@ function safeFormatDate(value) {
 	return format(date, "dd MMM, yyyy");
 }
 
-// Preview component for a Post
 const Post = createClass({
 	render() {
 		const entry = this.props.entry;
 
-		const title = entry.getIn(["data", "title"], null);
+		const title = entry.getIn(["data", "title"], "");
 		const dateValue = entry.getIn(["data", "date"], null);
 		const dateText = safeFormatDate(dateValue);
 		const summary = entry.getIn(["data", "summary"], "");
