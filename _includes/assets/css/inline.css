@@ -2,7 +2,6 @@
 	--background: #ffffff;
 	--text: #000000;
 	--link: #000000;
-	--link-visited: #6b6b6b;
 	--border: #e5e5e5;
 	--surface: #ffffff;
 	--focus: #2563eb;
@@ -27,7 +26,6 @@ body {
 	display: grid;
 	min-height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--background);
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -61,27 +59,34 @@ h6 {
 
 a[href] {
 	color: var(--link);
-	text-decoration: underline;
-	text-underline-offset: 0.15em;
-	text-decoration-thickness: from-font;
+	text-decoration: none;
 }
 
 a[href]:visited {
-	color: var(--link-visited);
-	text-decoration: underline;
-	text-underline-offset: 0.15em;
-	text-decoration-thickness: from-font;
+	color: var(--link);
+	text-decoration: none;
 }
 
 a[href]:hover,
 a[href]:focus-visible {
 	text-decoration: underline;
+	text-underline-offset: 0.15em;
+	text-decoration-thickness: from-font;
 }
 
 a[href]:focus-visible {
 	outline: 2px solid var(--focus);
 	outline-offset: 2px;
 	border-radius: 2px;
+}
+
+header > em > a,
+header > em > a:visited,
+header > em > a:hover,
+header > em > a:focus-visible {
+	color: #000000;
+	text-decoration: none;
+	outline: none;
 }
 
 img {
@@ -211,6 +216,7 @@ a[rel="tag"]:focus-visible {
 	border: 1px solid var(--text);
 	background-color: var(--text);
 	color: var(--surface);
+	text-decoration: none;
 }
 
 a[rel="tag"]:last-child {
