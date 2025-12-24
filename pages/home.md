@@ -7,16 +7,12 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+**Welcome**
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.dev), with deployment to [Netlify](https://www.netlify.com).
+This blog is a space dedicated to exploring technology — past, present, and what lies ahead.
 
-Includes [Decap CMS](https://www.decapcms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+Here, I write about systems, software, and the tools that shape how we connect and work in an increasingly digital world. From foundational technologies to modern platforms, the focus is on understanding how things work, why they matter, and how they’ve evolved over time.
 
-[Log in to the Decap CMS dashboard](/admin/)
+Drawing from personal experience and long-standing curiosity, the content reflects both technical exploration and practical insight. Some posts dive deep into specific technologies, others offer broader observations, and occasionally I share news or stories that connect today’s innovations with the paths that led us here.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+If you’re interested in thoughtful perspectives on technology, its evolution, and its real-world impact, you’re in the right place.
