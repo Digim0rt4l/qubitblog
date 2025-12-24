@@ -1,5 +1,5 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "description": "A template for building a simple blog website with the Eleventy static site generator, Decap CMS, and with deployment to Netlify.",
-  "url": "https://eleventy-netlify-boilerplate.netlify.app"
+  "title": "Qubit Blog",
+  "description": "A technology-focused blog exploring software, systems, and the evolution of the modern web.",
+  "url": "https://qubitblog.netlify.app"
 }
