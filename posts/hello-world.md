@@ -16,6 +16,8 @@ My interest in technology goes back as far as I can remember. It was shaped earl
 
 Over time, that curiosity turned into a habit of learning, experimenting, and thinking critically about how technology fits into everyday life. Not just what’s new, but why things work the way they do, and what that means in the long run.
 
+![](https://images.pexels.com/photos/302769/pexels-photo-302769.jpeg)
+
 This blog is where I intend to capture those thoughts.
 
 Here, you’ll find reflections on technology as a whole — observations about change, discussions around systems and tools, and occasional commentary on where things seem to be heading. Some posts may be technical, others more conceptual. Some may respond to current developments, while others will revisit ideas that have been around far longer than the modern web.
