@@ -5,7 +5,7 @@ metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.description will be used
   instead.
 section: contact
-date: 2018-01-01
+date: 2025-12-24T16:00:00.000+10:30
 permalink: /contact/index.html
 eleventyNavigation:
   key: Get in touch
