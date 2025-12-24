@@ -6,19 +6,31 @@ eleventyExcludeFromCollections: true
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for page in collections.all -%}
-	{%- set u = page.url -%}
-	{%- if
-		u
-		and not page.data.draft
-		and u != "/404/"
-		and u != "/404.html"
-		and (u | slice(0, 7)) != "/admin/"
-		and (u | slice(0, 9)) != "/authors/"
-		and (u | slice(0, 6)) != "/tags/"
-	-%}
+	{%- if page.url and not page.data.draft -%}
+		{%- set path = page.url -%}
+
+		{%- if (path | slice(0, 4)) == "http" -%}
+			{%- set path = path | replace("https://qubitblog.net", "") -%}
+			{%- set path = path | replace("http://qubitblog.net", "") -%}
+			{%- set path = path | replace("https://qubitblog.netlify.app", "") -%}
+			{%- set path = path | replace("http://qubitblog.netlify.app", "") -%}
+		{%- endif -%}
+
+		{%- if (path | slice(0, 1)) != "/" -%}
+			{%- set path = "/" + path -%}
+		{%- endif -%}
+
+		{%- if
+			path != "/404/"
+			and path != "/404.html"
+			and (path | slice(0, 7)) != "/admin/"
+			and (path | slice(0, 9)) != "/authors/"
+			and (path | slice(0, 6)) != "/tags/"
+		-%}
 	<url>
-		<loc>https://qubitblog.net{{ u }}</loc>
+		<loc>https://qubitblog.net{{ path }}</loc>
 	</url>
+		{%- endif -%}
 	{%- endif -%}
 {%- endfor -%}
 </urlset>
