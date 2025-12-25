@@ -1,7 +1,7 @@
 ---
 layout: layouts/blog.njk
 title: Blog
-metaDescription: A blog focused on technology, its evolution, and its impact on how we build, connect, and think.
+metaDescription: Articles and reflections on technology, its development, and its influence on modern digital life.
 date: 2025-12-25
 permalink: /blog/index.html
 eleventyNavigation:
