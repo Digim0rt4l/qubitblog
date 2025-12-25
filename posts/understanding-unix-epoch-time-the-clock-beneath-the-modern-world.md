@@ -1,6 +1,6 @@
 ---
 title: "Understanding Unix Epoch Time: The Clock Beneath the Modern World"
-date: 2025-12-25T22:58:00.000+10:30
+date: 2025-12-25T23:03:00.000+10:30
 author: Scott
 summary: A clear overview of Unix epoch time, explaining how it underpins modern
   computing, where its limitations lie, and how the Year 2038 problem highlights
@@ -16,6 +16,8 @@ This approach emerged with early Unix systems in the late 1960s and early 1970s.
 Although most people never see epoch time directly, it affects everyday life constantly. When a file is created or modified, the timestamp is often stored as epoch time. When a message is sent, a log entry is written, a database record is updated, or a security token expires, epoch time is usually involved. Web servers, operating systems, smartphones, financial systems, and cloud infrastructure all depend on it. Even when users see formatted dates and times, those values are often derived from an underlying epoch timestamp.
 
 One of the strengths of Unix epoch time is its simplicity. Calculating the difference between two points in time is as easy as subtracting one number from another. Sorting events chronologically becomes trivial. Time zone handling is deferred to presentation layers, reducing ambiguity at the system level. This simplicity has helped Unix time persist for decades across countless platforms and programming languages.
+
+![](https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg)
 
 However, this time format is not without limitations. The most well-known issue arises from how epoch time has traditionally been stored. Many older systems represent epoch time as a signed 32-bit integer counting seconds since 1970. This representation has a maximum value of 2,147,483,647 seconds. When that limit is exceeded, the value overflows and wraps around to a negative number.
 
