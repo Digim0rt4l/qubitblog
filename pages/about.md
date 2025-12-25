@@ -1,6 +1,6 @@
 ---
 title: About me
-metaDescription: A blog focused on technology, its evolution, and its impact on how we build, connect, and think.
+metaDescription: An overview of the background, interests, and perspective behind Qubit Blog and its focus on technology.
 date: 2025-12-25T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
