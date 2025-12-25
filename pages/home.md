@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
-title: Home
-date: 2016-01-01T00:00:00.000Z
+title: Qubit Blog
+date: 2025-12-25T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
