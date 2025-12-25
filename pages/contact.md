@@ -1,9 +1,9 @@
 ---
 layout: layouts/contact.njk
 title: Get in touch
-metaDescription: A blog focused on technology, its evolution, and its impact on how we build, connect, and think.
+metaDescription: A simple way to get in touch with the author of Qubit Blog for questions, ideas, or discussion.
 section: contact
-date: 2025-12-25T16:02:00.000+10:30
+date: 2025-12-25T00:00:00.000+10:30
 permalink: /contact/index.html
 eleventyNavigation:
   key: Get in touch
