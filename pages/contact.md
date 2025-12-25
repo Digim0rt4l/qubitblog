@@ -1,11 +1,9 @@
 ---
 layout: layouts/contact.njk
 title: Get in touch
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.description will be used
-  instead.
+metaDescription: A blog focused on technology, its evolution, and its impact on how we build, connect, and think.
 section: contact
-date: 2025-12-24T16:02:00.000+10:30
+date: 2025-12-25T16:02:00.000+10:30
 permalink: /contact/index.html
 eleventyNavigation:
   key: Get in touch
