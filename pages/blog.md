@@ -6,7 +6,7 @@ date: 2025-12-25
 permalink: "/blog/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber | plus: 2 }}/{% endif %}index.html"
 pagination:
   data: collections.blog
-  size: 20
+  size: 8
   alias: posts
 eleventyNavigation:
   key: Blog
