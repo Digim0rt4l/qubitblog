@@ -1,11 +1,19 @@
 ---
 layout: layouts/base.njk
 section: blog
-permalink: /blog/index.html
 ---
 <h1>{{ title }}</h1>
 
 {{ content | safe }}
 
-{% set postslist = collections.post %}
+{% set postslist = posts %}
 {% include "components/postslist.njk" %}
+
+<nav>
+	{% if pagination.href.previous %}
+		<a href="{{ pagination.href.previous | url }}">Newer posts</a>
+	{% endif %}
+	{% if pagination.href.next %}
+		<a href="{{ pagination.href.next | url }}">Older posts</a>
+	{% endif %}
+</nav>
