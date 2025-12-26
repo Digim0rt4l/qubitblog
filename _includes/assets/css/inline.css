@@ -283,8 +283,8 @@ button:hover {
 
 .pagination {
 	display: flex;
-	justify-content: space-between;
-	padding: 0 0.6em;
+	justify-content: flex-start;
+	gap: 0.5em;
 	margin-top: 2.5rem;
 }
 
