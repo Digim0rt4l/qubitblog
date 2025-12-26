@@ -9,7 +9,7 @@ section: blog
 {% set postslist = posts %}
 {% include "components/postslist.njk" %}
 
-<nav>
+<nav class="pagination">
 	{% if pagination.href.previous %}
 		<a href="{{ pagination.href.previous | url }}">Newer posts</a>
 	{% endif %}
