@@ -31,7 +31,7 @@ module.exports = function(eleventyConfig) {
       .sort((a, b) => {
         const aTime = new Date(a.data.date || a.date || 0).getTime();
         const bTime = new Date(b.data.date || b.date || 0).getTime();
-        return bTime - aTime;
+        return aTime - bTime;
       });
   });
 
