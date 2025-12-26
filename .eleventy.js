@@ -28,7 +28,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("blog", collection => {
     return collection
       .getFilteredByGlob("posts/*.md")
-      .sort((a, b) => b.date - a.date);
+      .sort((a, b) => {
+        const aTime = new Date(a.data.date || a.date || 0).getTime();
+        const bTime = new Date(b.data.date || b.date || 0).getTime();
+        return bTime - aTime;
+      });
   });
 
   eleventyConfig.addFilter("readableDate", dateObj => {
