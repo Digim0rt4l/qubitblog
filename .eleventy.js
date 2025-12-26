@@ -26,7 +26,9 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addCollection("blog", collection => {
-    return collection.getFilteredByGlob("posts/*.md").reverse();
+    return collection
+      .getFilteredByGlob("posts/*.md")
+      .sort((a, b) => b.date - a.date);
   });
 
   eleventyConfig.addFilter("readableDate", dateObj => {
