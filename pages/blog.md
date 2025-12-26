@@ -5,7 +5,7 @@ metaDescription: Articles and reflections on technology, its development, and it
 date: 2025-12-25
 permalink: "/blog/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 pagination:
-  data: collections.blog
+  data: collections.post
   size: 5
   alias: posts
 eleventyNavigation:
