@@ -8,6 +8,7 @@ pagination:
   data: collections.blog
   size: 20
   alias: posts
+  reverse: true
 eleventyNavigation:
   key: Blog
   order: 2
