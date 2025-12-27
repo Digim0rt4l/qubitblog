@@ -1,12 +1,13 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
-metaDescription: A simple way to get in touch with the author of Qubit Blog for questions, ideas, or discussion.
+title: Contact
+metaDescription: A simple way to get in touch with the author of Qubit Blog for
+  questions, ideas, or discussion.
 section: contact
 date: 2025-12-25T00:00:00.000+10:30
 permalink: /contact/index.html
 eleventyNavigation:
-  key: Get in touch
+  key: Contact
   order: 3
 ---
 Thanks for stopping by.
