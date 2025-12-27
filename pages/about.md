@@ -1,10 +1,11 @@
 ---
-title: About me
-metaDescription: An overview of the background, interests, and perspective behind Qubit Blog and its focus on technology.
-date: 2025-12-25T00:00:00.000Z
+title: About
+metaDescription: An overview of the background, interests, and perspective
+  behind Qubit Blog and its focus on technology.
+date: 2025-12-27T20:58:00.000+10:30
 permalink: /about/index.html
 eleventyNavigation:
-  key: About me
+  key: About
   order: 1
 ---
 My interest in technology is deeply rooted in family influence and early exposure, shaped long before I ever wrote a line of code or configured my first system.
