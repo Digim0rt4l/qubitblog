@@ -27,7 +27,7 @@ Some future battery technologies already exist but have not yet become mainstrea
 
 Silicon-based anodes represent another promising direction. Silicon can store significantly more energy than graphite, which is commonly used today. The problem is that silicon expands and contracts during charging cycles, causing physical stress that shortens battery life. Most current approaches use silicon blends rather than pure silicon to manage this issue, trading theoretical gains for practical reliability.
 
-![](https://images.pexels.com/photos/1087180/pexels-photo-1087180.jpeg)
+![](https://images.pexels.com/photos/719399/pexels-photo-719399.jpeg)
 
 Other technologies such as lithium-sulfur, sodium-ion, and supercapacitors are frequently discussed. Lithium-sulfur offers high theoretical energy density but struggles with durability and stability. Sodium-ion batteries are attractive due to lower material costs and supply chain advantages but generally lag in energy density. Supercapacitors charge quickly and last many cycles but store far less energy, limiting their usefulness for long-running devices like phones and laptops.
 
