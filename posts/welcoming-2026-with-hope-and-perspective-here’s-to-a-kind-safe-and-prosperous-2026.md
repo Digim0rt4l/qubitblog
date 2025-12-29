@@ -1,6 +1,5 @@
 ---
-title: Welcoming 2026 With Hope and Perspective Here’s to a Kind, Safe, and
-  Prosperous 2026
+title: Here’s to a Kind, Safe, and Prosperous 2026
 date: 2025-12-29T15:16:00.000+10:30
 author: Scott
 summary: A heartfelt reflection welcoming the new year, offering warm wishes for
