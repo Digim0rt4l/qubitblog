@@ -1,5 +1,5 @@
 ---
-title: "Powering the Cloud: How Data Centres Are Adapting to a Growing Energy Demand"
+title: Powering the Cloud How Data Centres Are Adapting to a Growing Energy Demand
 date: 2025-12-26T16:12:00.000+10:30
 author: Scott
 summary: An overview of how modern data centres are managing rising energy
