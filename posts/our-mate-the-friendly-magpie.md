@@ -1,5 +1,5 @@
 ---
-title: Our Mate, the Friendly Magpie
+title: Our Mate the Friendly Magpie
 date: 2025-12-26T18:43:00.000+10:30
 author: Scott
 summary: A warm, personal reflection on a familiar magpie that visits each
