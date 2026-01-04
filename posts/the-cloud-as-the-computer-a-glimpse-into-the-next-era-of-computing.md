@@ -1,5 +1,5 @@
 ---
-title: "The Cloud as the Computer: A Glimpse Into the Next Era of Computing"
+title: The Cloud as the Computer A Glimpse Into the Next Era of Computing
 date: 2025-12-26T15:42:00.000+10:30
 author: Scott
 summary: An exploration of a future where computing fully moves to the cloud,
