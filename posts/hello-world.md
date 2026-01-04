@@ -1,5 +1,5 @@
 ---
-title: Hello, World
+title: Hello World
 date: 2025-12-24T20:55:00.000+10:30
 author: Scott
 summary: A brief introduction to who I am, why this blog exists, and how a
