@@ -1,5 +1,5 @@
 ---
-title: "Free to Play, Designed to Pay: Inside Freemium Gaming"
+title: Free to Play, Designed to Pay Inside Freemium Gaming
 date: 2025-12-29T12:30:00.000+10:30
 author: Scott
 summary: This article explains what freemium gaming is and how it has become a
