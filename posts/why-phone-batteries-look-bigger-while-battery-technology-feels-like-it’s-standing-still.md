@@ -1,5 +1,5 @@
 ---
-title: Why Phone Batteries Look Bigger, While Battery Technology Feels Like It’s
+title: Why Phone Batteries Look Bigger While Battery Technology Feels Like It’s
   Standing Still
 date: 2025-12-29T21:48:00.000+10:30
 author: Scott
