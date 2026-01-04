@@ -1,5 +1,5 @@
 ---
-title: "Living in a Sea of Signals: The Invisible Infrastructure Around Us"
+title: Living in a Sea of Signals The Invisible Infrastructure Around Us
 date: 2025-12-27T18:32:00.000+10:30
 author: Scott
 summary: A deep look at the invisible radio signals that quietly support modern
