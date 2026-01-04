@@ -1,5 +1,5 @@
 ---
-title: "Curiosity Unboxed: The Global Experiment That Turned Taps Into a Mystery"
+title: Curiosity Unboxed The Global Experiment That Turned Taps Into a Mystery
 date: 2025-12-31T22:58:00.000+10:30
 author: Scott
 summary: "A look back at Curiosity: What’s Inside the Cube?, the unusual global
