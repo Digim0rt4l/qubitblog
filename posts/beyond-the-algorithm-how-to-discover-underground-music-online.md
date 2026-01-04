@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Algorithm: How to Discover Underground Music Online"
+title: Beyond the Algorithm How to Discover Underground Music Online
 date: 2026-01-04T18:16:00.000+10:30
 author: Scott
 summary: This article examines how underground music can still be discovered in
