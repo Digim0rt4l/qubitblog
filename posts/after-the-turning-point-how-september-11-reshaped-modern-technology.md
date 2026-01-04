@@ -1,5 +1,5 @@
 ---
-title: "After the Turning Point: How September 11 Reshaped Modern Technology"
+title: After the Turning Point How September 11 Reshaped Modern Technology
 date: 2025-12-28T20:33:00.000+10:30
 author: Scott
 summary: This article examines how the September 11, 2001 attacks fundamentally
