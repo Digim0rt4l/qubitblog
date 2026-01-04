@@ -1,5 +1,5 @@
 ---
-title: "How We Predict the Weather: From Data in the Sky to the Forecast You See"
+title: How We Predict the Weather From Data in the Sky to the Forecast You See
 date: 2025-12-27T19:40:00.000+10:30
 author: Scott
 summary: An in-depth look at how weather forecasts are created, exploring the
