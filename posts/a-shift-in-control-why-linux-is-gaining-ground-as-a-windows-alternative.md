@@ -1,5 +1,5 @@
 ---
-title: "A Shift in Control: Why Linux Is Gaining Ground as a Windows Alternative"
+title: A Shift in Control Why Linux Is Gaining Ground as a Windows Alternative
 date: 2025-12-26T11:09:00.000+10:30
 author: Scott
 summary: An examination of Linux as a practical desktop alternative to Windows,
