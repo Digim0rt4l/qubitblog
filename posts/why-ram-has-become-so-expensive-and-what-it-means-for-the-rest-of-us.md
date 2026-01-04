@@ -1,5 +1,5 @@
 ---
-title: Why RAM Has Become So Expensive, and What It Means for the Rest of Us
+title: Why RAM Has Become So Expensive and What It Means for the Rest of Us
 date: 2025-12-27T21:42:00.000+10:30
 author: Scott
 summary: A detailed exploration of why RAM prices have risen sharply in recent
