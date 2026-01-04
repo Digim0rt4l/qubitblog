@@ -1,5 +1,5 @@
 ---
-title: "Why Some Action Franchises Endure: My Definitive Top 10 Ranking"
+title: Why Some Action Franchises Endure My Definitive Top 10 Ranking
 date: 2026-01-01T14:55:00.000+10:30
 author: Scott
 summary: This article presents a personal, methodical ranking of the top ten
