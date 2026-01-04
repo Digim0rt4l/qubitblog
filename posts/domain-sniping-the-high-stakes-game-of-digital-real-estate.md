@@ -1,5 +1,5 @@
 ---
-title: "Domain Sniping: The High-Stakes Game of Digital Real Estate"
+title: Domain Sniping The High-Stakes Game of Digital Real Estate
 date: 2026-01-01T21:59:00.000+10:30
 author: Scott
 summary: This article examines domain sniping as a form of digital real estate
