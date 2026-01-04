@@ -1,5 +1,5 @@
 ---
-title: "Unfolding the Future: What a Foldable iPhone Would Actually Mean"
+title: Unfolding the Future What a Foldable iPhone Would Actually Mean
 date: 2025-12-24T21:26:00.000+10:30
 author: Scott
 summary: An objective exploration of what a foldable or dual-display iPhone
