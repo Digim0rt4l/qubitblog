@@ -1,5 +1,5 @@
 ---
-title: "Understanding Unix Epoch Time: The Clock Beneath the Modern World"
+title: Understanding Unix Epoch Time The Clock Beneath the Modern World
 date: 2025-12-25T23:03:00.000+10:30
 author: Scott
 summary: A clear overview of Unix epoch time, explaining how it underpins modern
