@@ -1,5 +1,5 @@
 ---
-title: "Net Neutrality: How the Internet Balances Fairness, Access, and Control"
+title: Net Neutrality How the Internet Balances Fairness, Access, and Control
 date: 2026-01-04T16:45:00.000+10:30
 author: Scott
 summary: This article explains net neutrality from a balanced perspective,
