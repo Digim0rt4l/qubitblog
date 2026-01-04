@@ -1,5 +1,5 @@
 ---
-title: Beyond Moore’s Law How Computing Progressed and Where It Goes Next
+title: Beyond Moores Law How Computing Progressed and Where It Goes Next
 date: 2025-12-27T21:57:00.000+10:30
 author: Scott
 summary: An in-depth exploration of Moore’s Law, tracing its historical
