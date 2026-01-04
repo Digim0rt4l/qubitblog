@@ -1,5 +1,5 @@
 ---
-title: "Dial-Up to Always On: How Connectivity Reshaped the Modern World"
+title: Dial-Up to Always On How Connectivity Reshaped the Modern World
 date: 2025-12-24T22:46:00.000+10:30
 author: Scott
 summary: A reflective overview of how dial-up internet introduced the world to
