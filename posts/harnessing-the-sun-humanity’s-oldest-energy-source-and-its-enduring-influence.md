@@ -1,5 +1,5 @@
 ---
-title: Harnessing the Sun Humanity’s Oldest Energy Source and Its Enduring Influence
+title: Harnessing the Sun Humanitys Oldest Energy Source and Its Enduring Influence
 date: 2025-12-26T18:09:00.000+10:30
 author: Scott
 summary: A historical and forward-looking exploration of how humanity has
