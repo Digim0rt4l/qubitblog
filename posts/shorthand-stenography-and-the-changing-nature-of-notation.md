@@ -1,5 +1,5 @@
 ---
-title: Shorthand, Stenography, and the Changing Nature of Notation
+title: Shorthand Stenography and the Changing Nature of Notation
 date: 2025-12-26T23:08:00.000+10:30
 author: Scott
 summary: An exploration of shorthand writing as a once-essential method for
