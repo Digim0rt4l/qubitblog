@@ -1,5 +1,5 @@
 ---
-title: "Beyond Screens: What Daily Life Could Look Like in 20 Years"
+title: Beyond Screens What Daily Life Could Look Like in 20 Years
 date: 2025-12-28T18:26:00.000+10:30
 author: Scott
 summary: This article explores what an ordinary day might look like twenty years
