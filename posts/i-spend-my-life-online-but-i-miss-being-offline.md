@@ -1,5 +1,5 @@
 ---
-title: I Spend My Life Online, But I Miss Being Offline
+title: I Spend My Life Online But I Miss Being Offline
 date: 2025-12-27T16:18:00.000+10:30
 author: Scott
 summary: A heartfelt reflection on growing up offline, remembering simple joys
