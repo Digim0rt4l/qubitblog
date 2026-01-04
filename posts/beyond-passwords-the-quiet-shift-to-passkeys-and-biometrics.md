@@ -1,5 +1,5 @@
 ---
-title: "Beyond Passwords: The Quiet Shift to Passkeys and Biometrics"
+title: Beyond Passwords The Quiet Shift to Passkeys and Biometrics
 date: 2026-01-04T18:44:00.000+10:30
 author: Scott
 summary: This article explores the gradual shift away from traditional passwords
