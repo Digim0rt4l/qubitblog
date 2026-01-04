@@ -1,5 +1,5 @@
 ---
-title: "Connected at a Cost: The Rise and Reality of Social Media"
+title: Connected at a Cost The Rise and Reality of Social Media
 date: 2025-12-28T20:17:00.000+10:30
 author: Scott
 summary: This article explores how social media has transformed the modern
