@@ -1,5 +1,5 @@
 ---
-title: Y2K When the World Prepared for a Problem That Almost Didnt Happen
+title: Y2K When the World Prepared for a Problem That Almost Did Not Happen
 date: 2025-12-26T12:40:00.000+10:30
 author: Scott
 summary: A balanced look at the Y2K bug, explaining why it posed real risks, how
