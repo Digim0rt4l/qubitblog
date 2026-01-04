@@ -1,5 +1,5 @@
 ---
-title: "Plugged In Before Sleep: The Nightly Ritual of Charging Devices"
+title: Plugged In Before Sleep The Nightly Ritual of Charging Devices
 date: 2025-12-30T13:06:00.000+10:30
 author: Scott
 summary: This article reflects on the nightly habit of charging devices and how
