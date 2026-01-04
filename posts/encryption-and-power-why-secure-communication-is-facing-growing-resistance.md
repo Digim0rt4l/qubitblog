@@ -1,5 +1,5 @@
 ---
-title: "Encryption and Power: Why Secure Communication Is Facing Growing Resistance"
+title: Encryption and Power Why Secure Communication Is Facing Growing Resistance
 date: 2025-12-30T09:23:00.000+10:30
 author: Scott
 summary: This article examines why encryption is increasingly contested by
