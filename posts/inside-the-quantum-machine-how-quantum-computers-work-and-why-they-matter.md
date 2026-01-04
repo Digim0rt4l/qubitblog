@@ -1,5 +1,5 @@
 ---
-title: "Inside the Quantum Machine: How Quantum Computers Work and Why They Matter"
+title: Inside the Quantum Machine How Quantum Computers Work and Why They Matter
 date: 2025-12-28T19:12:00.000+10:30
 author: Scott
 summary: This article explains what quantum computers are, how they differ from
