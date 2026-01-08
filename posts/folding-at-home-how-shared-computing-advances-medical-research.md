@@ -1,5 +1,5 @@
 ---
-title: Folding at Home How Shared Computing Advances Medical Research
+title: Folding at Home and How Shared Computing Is Advancing Medical Research
 date: 2026-01-06T15:32:00.000+10:30
 author: Scott
 summary: This article explains what Folding at Home is, how it works, and why it
