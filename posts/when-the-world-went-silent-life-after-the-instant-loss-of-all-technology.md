@@ -1,5 +1,5 @@
 ---
-title: When the World Went Silent Life After the Instant Loss of All Technology
+title: Life After the Instant Loss of All Technology
 date: 2026-01-08T18:50:00.000+10:30
 author: Scott
 summary: This article explores a hypothetical global collapse in which all
