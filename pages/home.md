@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-**Welcome**
+Welcome,
 
 This blog is a space dedicated to exploring technology — past, present, and what lies ahead.
 
