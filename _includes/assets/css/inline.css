@@ -36,9 +36,14 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-main {
+.container {
 	max-width: 48rem;
 	margin: 0 auto;
+	padding: 1.25em;
+}
+
+main {
+	padding-bottom: 2.5em;
 }
 
 p,
@@ -100,22 +105,12 @@ img {
 	display: block;
 }
 
-header,
-main,
-footer {
-	padding: 1.25em;
-}
-
 header {
 	border-bottom: 1px solid var(--border);
 }
 
 footer {
 	border-top: 1px solid var(--border);
-}
-
-main {
-	padding-bottom: 2.5em;
 }
 
 main :first-child,
@@ -294,9 +289,7 @@ button:hover {
 }
 
 @media screen and (min-width: 768px) {
-	header,
-	main,
-	footer {
+	.container {
 		padding: 1.5em;
 	}
 }
