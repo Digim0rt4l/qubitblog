@@ -10,10 +10,10 @@ section: blog
 {% include "components/postslist.njk" %}
 
 <nav class="pagination">
-	{% if pagination.href.previous %}
-		<a href="{{ pagination.href.previous | url }}">Newer posts</a>
-	{% endif %}
 	{% if pagination.href.next %}
 		<a href="{{ pagination.href.next | url }}">Older posts</a>
+	{% endif %}
+	{% if pagination.href.previous %}
+		<a href="{{ pagination.href.previous | url }}">Newer posts</a>
 	{% endif %}
 </nav>
