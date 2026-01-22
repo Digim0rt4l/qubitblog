@@ -6,17 +6,23 @@
 	<body>
 
 		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
+			<div class="container">
+				<em>
+					<a href="{{ '/' | url }}">{{ metadata.title }}</a>
+				</em>
+				{% include "components/nav.njk" %}
+			</div>
 		</header>
 
-		<main>
+		<main class="container">
 			{{ content | safe }}
 		</main>
 
-		{% include "components/footer.njk" %}
+		<footer>
+			<div class="container">
+				{% include "components/footer.njk" %}
+			</div>
+		</footer>
 
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
