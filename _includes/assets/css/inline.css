@@ -42,6 +42,29 @@ body {
 	padding: 1.25em;
 }
 
+.header-inner {
+	display: flex;
+	flex-direction: column;
+	gap: 0.75em;
+}
+
+.site-title {
+	font-size: 2em;
+	font-weight: 700;
+	font-style: normal;
+	line-height: 1.2;
+	margin: 0;
+}
+
+.site-title a,
+.site-title a:visited,
+.site-title a:hover,
+.site-title a:focus-visible {
+	color: var(--text);
+	text-decoration: none;
+	outline: none;
+}
+
 main {
 	padding-bottom: 2.5em;
 }
@@ -88,15 +111,6 @@ a[href]:focus-visible {
 	outline: 2px solid var(--focus);
 	outline-offset: 2px;
 	border-radius: 2px;
-}
-
-header > em > a,
-header > em > a:visited,
-header > em > a:hover,
-header > em > a:focus-visible {
-	color: #000000;
-	text-decoration: none;
-	outline: none;
 }
 
 img {
@@ -149,14 +163,6 @@ p code {
 	border: 1px solid var(--border);
 	border-radius: 0.25rem;
 	background-color: var(--surface);
-}
-
-header > em {
-	display: block;
-	font-size: 2em;
-	margin: 0.67em 0;
-	font-weight: 700;
-	font-style: normal;
 }
 
 header nav ul {
